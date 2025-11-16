@@ -16,7 +16,7 @@ timezone: Asia/Manila
 
 title: Kurt's Blog # the main title
 
-tagline: Just a way to me to share my ideas! # it will display as the subtitle
+tagline: Read my IT-related ramblings here! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
